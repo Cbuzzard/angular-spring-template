@@ -2,7 +2,7 @@
 
 Template that sets up a project with angular frontend and spring boot backend. Allows GET requests to all API endpoints and prevents POST requests to "/rest" enpoints unless the frontend sends a valid jwt. Prebuilt with login button.
 
-##Prerequisite
+## Prerequisite
 
 - Must have a Google project with OAuth Client ID 
 
